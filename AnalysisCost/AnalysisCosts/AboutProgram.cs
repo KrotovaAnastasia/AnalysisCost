@@ -99,7 +99,7 @@ namespace AnalysisCosts
 
         private void AboutProgram_Load(object sender, EventArgs e)
         {
-
+            //Здесь были мы
         }
     }
 }
