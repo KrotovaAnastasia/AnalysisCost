@@ -20,7 +20,7 @@ namespace AnalysisCosts
 
         private void DynamicCostsForm_Load(object sender, EventArgs e)
         {
-           
+           //Строим график
         }
     }
 }
