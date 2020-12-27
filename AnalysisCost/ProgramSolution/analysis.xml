@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfRow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Row>
+    <CostItem>Материальные затраты</CostItem>
+    <PlannedСosts>15000</PlannedСosts>
+    <ActualСosts>16500</ActualСosts>
+    <Deviations>1500</Deviations>
+    <PlannedCostStructure>1</PlannedCostStructure>
+    <ActualСostsStructure>1</ActualСostsStructure>
+    <DeviationsСostsStructure>1</DeviationsСostsStructure>
+  </Row>
+  <Row>
+    <CostItem>Затраты на оплату труда</CostItem>
+    <PlannedСosts>3500</PlannedСosts>
+    <ActualСosts>4000</ActualСosts>
+    <Deviations>500</Deviations>
+    <PlannedCostStructure>1</PlannedCostStructure>
+    <ActualСostsStructure>1</ActualСostsStructure>
+    <DeviationsСostsStructure>1</DeviationsСostsStructure>
+  </Row>
+  <Row>
+    <CostItem>Электроэнергия</CostItem>
+    <PlannedСosts>1150</PlannedСosts>
+    <ActualСosts>1270</ActualСosts>
+    <Deviations>120</Deviations>
+    <PlannedCostStructure>1</PlannedCostStructure>
+    <ActualСostsStructure>1</ActualСostsStructure>
+    <DeviationsСostsStructure>1</DeviationsСostsStructure>
+  </Row>
+  <Row>
+    <CostItem>Административные расходы</CostItem>
+    <PlannedСosts>12400</PlannedСosts>
+    <ActualСosts>13750</ActualСosts>
+    <Deviations>1350</Deviations>
+    <PlannedCostStructure>1</PlannedCostStructure>
+    <ActualСostsStructure>1</ActualСostsStructure>
+    <DeviationsСostsStructure>1</DeviationsСostsStructure>
+  </Row>
+  <Row>
+    <CostItem>Коммерческие расходы</CostItem>
+    <PlannedСosts>8600</PlannedСosts>
+    <ActualСosts>9400</ActualСosts>
+    <Deviations>800</Deviations>
+    <PlannedCostStructure>1</PlannedCostStructure>
+    <ActualСostsStructure>1</ActualСostsStructure>
+    <DeviationsСostsStructure>1</DeviationsСostsStructure>
+  </Row>
+</ArrayOfRow>

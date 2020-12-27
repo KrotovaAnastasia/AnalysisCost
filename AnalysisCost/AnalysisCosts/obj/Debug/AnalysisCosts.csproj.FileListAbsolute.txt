@@ -1,0 +1,39 @@
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.exe.config
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.exe
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.pdb
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csprojAssemblyReference.cache
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.Properties.Resources.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csproj.GenerateResource.cache
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csproj.CoreCompileInputs.cache
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.exe
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.pdb
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.HelpForm.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.AboutProgram.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.DynamicCosts.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.MainForm.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.exe.config
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.exe
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.pdb
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csprojAssemblyReference.cache
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.AboutProgram.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.DynamicCostsForm.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.MainForm.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.HelpForm.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.Properties.Resources.resources
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csproj.GenerateResource.cache
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csproj.CoreCompileInputs.cache
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.exe
+C:\Users\sozon\OneDrive\Рабочий стол\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.pdb
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.exe.config
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.exe
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\bin\Debug\AnalysisCosts.pdb
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csprojAssemblyReference.cache
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.AboutProgram.resources
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.DynamicCostsForm.resources
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.MainForm.resources
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.HelpForm.resources
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.exe
+C:\Users\user\Desktop\учеба\курсовая, Аникина, Кротова, Созонова\курсовая, Аникина, Кротова, Созонова\AnalysisCosts\AnalysisCosts\obj\Debug\AnalysisCosts.pdb
