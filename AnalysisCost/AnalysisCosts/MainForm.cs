@@ -45,7 +45,7 @@ namespace AnalysisCosts
         // Обновление данных таблицы
         public void UpdateTable()
         {
-            
+            //тут должен быть код
         }
         
         //Очищение всех полей свойств
