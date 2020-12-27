@@ -51,7 +51,7 @@ namespace AnalysisCosts
         //Очищение всех полей свойств
         public void ClearInfBox()
         {
-            
+            //89
         }
 
         //Кнопки
