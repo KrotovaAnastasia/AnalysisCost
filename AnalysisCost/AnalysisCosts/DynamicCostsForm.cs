@@ -15,7 +15,7 @@ namespace AnalysisCosts
     {
         public DynamicCostsForm()
         {
-            InitializeComponent();//пр
+            InitializeComponent();//о
         }
 
         private void DynamicCostsForm_Load(object sender, EventArgs e)
