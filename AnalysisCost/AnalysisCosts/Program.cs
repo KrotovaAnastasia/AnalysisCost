@@ -179,7 +179,7 @@ namespace AnalysisCosts
         }*/
 
         public Row() { }
-        //Конструктор
+        //Конструкторhhllh
         public Row(string costItem, double plannedСosts, double actualСosts)
         {
             this.CostItem = costItem;
