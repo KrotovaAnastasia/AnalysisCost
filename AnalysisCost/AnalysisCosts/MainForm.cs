@@ -19,7 +19,7 @@ namespace AnalysisCosts
 
         public MainForm()
         {
-            InitializeComponent();//dgjh
+            InitializeComponent();//dgjhывп
         }
         
         //загрузка формы
